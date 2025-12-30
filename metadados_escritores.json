@@ -1900,6 +1900,11 @@
     "url": "https://pt.wikipedia.org/wiki/Lima_Barreto_(escritor)"
   },
   {
+    "escritor": "Lima Barreto (escritor)",
+    "escritor_wiki": "Lima_Barreto_(escritor)",
+    "url": "https://pt.wikipedia.org/wiki/Lima_Barreto_(escritor)"
+  },
+  {
     "escritor": "Aluísio Azevedo",
     "escritor_wiki": "Aluísio_Azevedo",
     "url": "https://pt.wikipedia.org/wiki/Aluísio_Azevedo"
@@ -2305,6 +2310,11 @@
     "url": "https://pt.wikipedia.org/wiki/Bernardo_Guimarães"
   },
   {
+    "escritor": "Bernardo Guimarães",
+    "escritor_wiki": "Bernardo_Guimarães",
+    "url": "https://pt.wikipedia.org/wiki/Bernardo_Guimarães"
+  },
+  {
     "escritor": "Mário de Andrade",
     "escritor_wiki": "Mário_de_Andrade",
     "url": "https://pt.wikipedia.org/wiki/Mário_de_Andrade"
@@ -3500,9 +3510,9 @@
     "url": "https://pt.wikipedia.org/wiki/Jorge_Amado"
   },
   {
-    "escritor": "José Lins do Rego",
-    "escritor_wiki": "José_Lins_do_Rego",
-    "url": "https://pt.wikipedia.org/wiki/José_Lins_do_Rego"
+    "escritor": "Jorge Amado",
+    "escritor_wiki": "Jorge_Amado",
+    "url": "https://pt.wikipedia.org/wiki/Jorge_Amado"
   },
   {
     "escritor": "José Lins do Rego",
@@ -3650,9 +3660,14 @@
     "url": "https://pt.wikipedia.org/wiki/José_Lins_do_Rego"
   },
   {
-    "escritor": "Érico Veríssimo",
-    "escritor_wiki": "Érico_Veríssimo",
-    "url": "https://pt.wikipedia.org/wiki/Érico_Veríssimo"
+    "escritor": "José Lins do Rego",
+    "escritor_wiki": "José_Lins_do_Rego",
+    "url": "https://pt.wikipedia.org/wiki/José_Lins_do_Rego"
+  },
+  {
+    "escritor": "José Lins do Rego",
+    "escritor_wiki": "José_Lins_do_Rego",
+    "url": "https://pt.wikipedia.org/wiki/José_Lins_do_Rego"
   },
   {
     "escritor": "Érico Veríssimo",
@@ -3958,6 +3973,21 @@
     "escritor": "Érico Veríssimo",
     "escritor_wiki": "Érico_Veríssimo",
     "url": "https://pt.wikipedia.org/wiki/Érico_Veríssimo"
+  },
+  {
+    "escritor": "Érico Veríssimo",
+    "escritor_wiki": "Érico_Veríssimo",
+    "url": "https://pt.wikipedia.org/wiki/Érico_Veríssimo"
+  },
+  {
+    "escritor": "Érico Veríssimo",
+    "escritor_wiki": "Érico_Veríssimo",
+    "url": "https://pt.wikipedia.org/wiki/Érico_Veríssimo"
+  },
+  {
+    "escritor": "Rachel de Queiroz",
+    "escritor_wiki": "Rachel_de_Queiroz",
+    "url": "https://pt.wikipedia.org/wiki/Rachel_de_Queiroz"
   },
   {
     "escritor": "Rachel de Queiroz",
@@ -6340,9 +6370,9 @@
     "url": "https://pt.wikipedia.org/wiki/Cruz_e_Sousa"
   },
   {
-    "escritor": "Alphonsus de Guimaraens",
-    "escritor_wiki": "Alphonsus_de_Guimaraens",
-    "url": "https://pt.wikipedia.org/wiki/Alphonsus_de_Guimaraens"
+    "escritor": "Cruz e Sousa",
+    "escritor_wiki": "Cruz_e_Sousa",
+    "url": "https://pt.wikipedia.org/wiki/Cruz_e_Sousa"
   },
   {
     "escritor": "Alphonsus de Guimaraens",
@@ -6395,9 +6425,9 @@
     "url": "https://pt.wikipedia.org/wiki/Alphonsus_de_Guimaraens"
   },
   {
-    "escritor": "Euclides da Cunha",
-    "escritor_wiki": "Euclides_da_Cunha",
-    "url": "https://pt.wikipedia.org/wiki/Euclides_da_Cunha"
+    "escritor": "Alphonsus de Guimaraens",
+    "escritor_wiki": "Alphonsus_de_Guimaraens",
+    "url": "https://pt.wikipedia.org/wiki/Alphonsus_de_Guimaraens"
   },
   {
     "escritor": "Euclides da Cunha",
@@ -6523,6 +6553,21 @@
     "escritor": "Euclides da Cunha",
     "escritor_wiki": "Euclides_da_Cunha",
     "url": "https://pt.wikipedia.org/wiki/Euclides_da_Cunha"
+  },
+  {
+    "escritor": "Euclides da Cunha",
+    "escritor_wiki": "Euclides_da_Cunha",
+    "url": "https://pt.wikipedia.org/wiki/Euclides_da_Cunha"
+  },
+  {
+    "escritor": "Euclides da Cunha",
+    "escritor_wiki": "Euclides_da_Cunha",
+    "url": "https://pt.wikipedia.org/wiki/Euclides_da_Cunha"
+  },
+  {
+    "escritor": "Monteiro Lobato",
+    "escritor_wiki": "Monteiro_Lobato",
+    "url": "https://pt.wikipedia.org/wiki/Monteiro_Lobato"
   },
   {
     "escritor": "Monteiro Lobato",
@@ -7388,6 +7433,16 @@
     "escritor": "Coelho Neto",
     "escritor_wiki": "Coelho_Neto",
     "url": "https://pt.wikipedia.org/wiki/Coelho_Neto"
+  },
+  {
+    "escritor": "Coelho Neto",
+    "escritor_wiki": "Coelho_Neto",
+    "url": "https://pt.wikipedia.org/wiki/Coelho_Neto"
+  },
+  {
+    "escritor": "Graça Aranha",
+    "escritor_wiki": "Graça_Aranha",
+    "url": "https://pt.wikipedia.org/wiki/Graça_Aranha"
   },
   {
     "escritor": "Graça Aranha",
@@ -8718,6 +8773,21 @@
     "escritor": "Rubem Fonseca",
     "escritor_wiki": "Rubem_Fonseca",
     "url": "https://pt.wikipedia.org/wiki/Rubem_Fonseca"
+  },
+  {
+    "escritor": "Rubem Fonseca",
+    "escritor_wiki": "Rubem_Fonseca",
+    "url": "https://pt.wikipedia.org/wiki/Rubem_Fonseca"
+  },
+  {
+    "escritor": "Lygia Fagundes Telles",
+    "escritor_wiki": "Lygia_Fagundes_Telles",
+    "url": "https://pt.wikipedia.org/wiki/Lygia_Fagundes_Telles"
+  },
+  {
+    "escritor": "Lygia Fagundes Telles",
+    "escritor_wiki": "Lygia_Fagundes_Telles",
+    "url": "https://pt.wikipedia.org/wiki/Lygia_Fagundes_Telles"
   },
   {
     "escritor": "Lygia Fagundes Telles",
