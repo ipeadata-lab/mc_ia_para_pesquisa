@@ -1,0 +1,20 @@
+“Trabalho com carteira assinada em uma empresa de logística, com horário fixo e benefícios.”
+“Faço bicos como pedreiro e eletricista, sem registro, dependendo da demanda.”
+“Sou motorista de aplicativo, trabalho por conta própria e faço meus horários.”
+“Tenho uma pequena empresa de limpeza e contrato duas pessoas quando aparece serviço.”
+“Sou vendedora em uma loja, recebo salário mensal, mas não tenho carteira assinada.”
+“Atendo como manicure em casa e também em domicílio, sem vínculo com salão.”
+“Sou dono de um mercadinho no bairro e tenho três funcionários fixos.”
+“Trabalho em um escritório de contabilidade, registrado em CLT.”
+“Faço entregas com minha moto para restaurantes, recebo por diária.”
+“Tenho um restaurante pequeno e cuido da administração e dos funcionários.”
+“Dou aulas particulares e cursos online, emitindo nota como MEI.”
+“Trabalho como auxiliar administrativo, mas o pagamento é feito ‘por fora’.”
+“Tenho uma loja virtual e faço as vendas sozinho, sem empregados.”
+“Sou empregado doméstico, trabalho toda semana na mesma casa, mas sem registro.”
+“Abri uma empresa de tecnologia e coordeno uma equipe de cinco pessoas.”
+“Faço costuras e consertos em casa para vizinhos e conhecidos.”
+“Trabalho em uma fábrica, com turnos definidos e carteira assinada.”
+“Sou representante comercial, sem vínculo empregatício, recebendo por comissão.”
+“Tenho um pequeno sítio e contrato diaristas quando preciso.”
+“Trabalho como garçom em eventos, chamado conforme a necessidade.”
